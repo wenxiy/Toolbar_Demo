@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Toolbar_Demo</string>
+    <string name="drawer__open">open</string>
+    <string name="drawer_close">close</string>
 </resources>
